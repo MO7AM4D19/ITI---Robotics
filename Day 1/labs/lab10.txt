@@ -1,0 +1,2 @@
+absolute: /home/user/docs
+relative ~/docs

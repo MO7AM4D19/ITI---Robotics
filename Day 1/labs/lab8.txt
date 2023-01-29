@@ -1,0 +1,2 @@
+we can create a hidden file by adding a dot "." before the file name,
+Also we can diplay all files "encluding hidden files" using -a option with ls comand 

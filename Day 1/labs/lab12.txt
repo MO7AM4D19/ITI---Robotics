@@ -1,0 +1,4 @@
+nano my_code.text
+Mohamed Khalid Anis ITI
+"then we save and exit using ctrl + o and ctrl + x"
+grep -r "Mohamed Khalid Anis ITI"

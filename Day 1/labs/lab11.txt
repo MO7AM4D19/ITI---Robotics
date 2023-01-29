@@ -1,0 +1,2 @@
+way1: cd ~
+way2: cd ..

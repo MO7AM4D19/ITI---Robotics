@@ -1,0 +1,2 @@
+rm:mainly used to removes a file and may be used to remove a directory that contins files if used with -r option
+rmdir: mainly used to remove an empty directory 

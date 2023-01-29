@@ -1,0 +1,5 @@
+mkdir -p dir/dir1
+mkdir dir/dir2
+touch dir/dir1/file1
+mkdir docs
+touch docs/WS-ITI
